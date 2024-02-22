@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Asaad</h1>
 <h3 align="center">A Passionate Embedded Software Engineer</h3>
 
-- 🌱 I’m currently learning **ARM Cortex M4 Architecture**
+- 🌱 I’m currently learning **Microcontroller Interfacing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
