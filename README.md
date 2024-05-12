@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Embedded Software Engineer</h3>
 
 - 🌱 I’m currently learning **Microcontroller Interfacing**
-- <h3 align="center">🌱 I’m currently learning **Microcontroller Interfacing**</h3>
+<h3 align="center">🌱 I’m currently learning <strong>Microcontroller Interfacing</strong></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
