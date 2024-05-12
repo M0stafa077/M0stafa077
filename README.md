@@ -18,4 +18,11 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0stafa077&" alt="m0stafa077" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0stafa077&show_icons=true&locale=en&layout=compact" alt="m0stafa077's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0stafa077&" alt="m0stafa077's Contribution Streak" />
+</div>
+
