@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Asaad</h1>
 <h3 align="center">A Passionate <s>Embedded</s> Software Engineer</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-asaad-a2a986237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-asaad" height="30" width="40" /></a>
   <a href="https://www.facebook.com/mostafa.asaad.20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa asaad" height="30" width="40" /></a>
