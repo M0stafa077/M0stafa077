@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Asaad</h1>
-<h3 align="center">A Passionate Embedded Software Engineer</h3>
+<h3 align="center">A Passionate <s>Embedded</s> Software Engineer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
