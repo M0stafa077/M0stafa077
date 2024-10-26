@@ -4,7 +4,6 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-asaad-a2a986237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-asaad" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/mostafa.asaad.20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa asaad" height="30" width="40" /></a>
   <a href="mailto:mostafa.asaad022@gmail.com"><img align="center" height="30" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white""/></a>
   </p>
   
